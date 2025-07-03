@@ -2,7 +2,7 @@
 import streamlit as st
 import time
 
-st.set_page_config(page_title="BMI Calculator", page_icon="😊", layout="centerd")
+st.set_page_config(page_title="BMI Calculator", page_icon="😊", layout="centered")
 
 st.title("Projects 9: BMI Calculator In Python")
 st.markdown("""
